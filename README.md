@@ -1,2 +1,2 @@
 # hello-world
-bakam neymis
+bakam neymis ne la değiştirin bunu
